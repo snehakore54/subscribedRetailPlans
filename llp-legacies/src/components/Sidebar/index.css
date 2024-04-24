@@ -1,0 +1,39 @@
+/* Sidebar.css */
+
+.sidebar {
+    width: 250px;
+    background-color: #f0f0f0;
+    height: 100vh; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0%;
+  
+  }
+  
+  .sidebar li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .main-content {
+    margin-left: 250px;
+  }
+  
+  .imgs-container{
+    background-color: #f0f0f0;
+    background-size: cover;
+    padding: 10px;
+  }
+
+  .sidebar-container{
+    background-color: #f0f0f0;
+  }
+  .sidebar-items{
+    list-style-type: none;
+  }

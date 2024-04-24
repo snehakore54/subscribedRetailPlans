@@ -1,0 +1,91 @@
+.bg-container{
+  background-color:  #202A44;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  flex-direction: row;
+}
+.para{
+  color: thistle;
+  gap: 2
+}
+
+.banner-cards-list{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: aliceblue;
+  border-radius: 16px;
+  margin: 15px;
+  padding: 20px;
+  gap: 15px;
+}
+
+.div-container{
+  background-color: aliceblue;
+  padding: 20px;
+  background-size: 200vh;
+  display: flex;
+  flex-direction: row;
+  background-size: cover;
+  width: fit-content;
+}
+
+.img-color-skyblue{
+  color: #007bff;
+  height: 40px;
+}
+
+.img-color-darkblue{
+  color: darkblue;
+  height: 40px;
+}
+
+.img-color-red{
+  color: red;
+  height: 40px;
+}
+
+.img-color-orange{
+  height: 40px;
+  color: orange;
+
+}
+
+.img-color-green{
+  height: 40px;
+  color: green;
+
+}
+
+.saved-cards{
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-width: 1px;
+  border-color: aliceblue;
+  border-radius: 16px;
+  margin: 25px;
+  padding: 20px;
+  gap: 15px;
+}
+
+.app-container{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.btn{
+  color: #e5eaf4;
+  background-color:  #202A44 ;
+  height: 34px;
+  align-items: center;
+ 
+}

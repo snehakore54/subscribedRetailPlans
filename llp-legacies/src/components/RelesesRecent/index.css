@@ -1,0 +1,68 @@
+.container-options{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.select{
+    margin-top:28px ;
+    height: 40px;
+    width: 130px;
+    border-radius: 8px;
+    border-width: 3px;
+    border-color: lightgrey;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.heading{
+    color:#0463ca;
+    font-family: sans-serif;
+    font-size: 26px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    box-shadow: 2px 2px 2px lightblue;
+    
+}
+
+.one-side-lining{
+    list-style-type: circle;
+    height: fit-content;
+    width: auto;
+}
+
+.list-type{
+    border-style: solid;
+    border-width: 4px;
+    border-color: lightgrey;
+    border-left-color: grey 20px;
+    border-bottom-color: white;
+    border-top-color: white;
+    border-right-color: white;
+    padding-top: 0%;
+    line-height: 30px;
+    list-style-position:initial;
+}
+.heading-one{
+    color: #007fff;
+    font-size: 20px;
+}
+
+.heading-two{
+    color: #202A44;
+    font-size: 22px
+}
+
+.paragraph{
+    color: grey;
+    font-size: 12px;
+}
